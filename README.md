@@ -7,4 +7,4 @@ DTED0 World foulder has to be ziped and later imported use z-zip or any other so
 
 ATAK ( Android Team Awareness Kit)
 
-(https://tak.gov/packs/media/img/uploads/device-demonstration-01-aa3ed3ce2bdcd4507bed3f9c768795d0.png)
+![Scanning for targets](https://tak.gov/packs/media/img/uploads/device-demonstration-01-aa3ed3ce2bdcd4507bed3f9c768795d0.png)
