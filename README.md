@@ -1,4 +1,7 @@
 # TAK-imagery
+
+you have to get the atak softweare from the tak.gov page ( you can only acces the download page with an acount )
+
 Satelite images for TAK softweare ( Wintak and ATAK )
 
 
