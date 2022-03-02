@@ -8,7 +8,9 @@ Satelite images for TAK softweare ( Wintak and ATAK )
 DTED0 World foulder has to be ziped and later imported use z-zip or any other softwere to do it
 
 
-ATAK ( Android Team Awareness Kit )
+# ATAK ( Android Team Awareness Kit )
+
+Android Team Awareness Kit, dasined to be used in mobile devaices with the android sistem from android 4
 
 ![ Screenshots from: Android Team Awareness Kit ](https://tak.gov/packs/media/img/uploads/device-demonstration-01-aa3ed3ce2bdcd4507bed3f9c768795d0.png)
 
@@ -17,7 +19,9 @@ Avaliable to in most android devaices ( do not download it from the Google app s
 
 some devaices may need external gps I recomend the GotennaMESH
 
-WINTAK ( Windows Team Awareness Kit )
+# WINTAK ( Windows Team Awareness Kit )
+
+The native version of tak for windows
 
 ![ Android Team Awareness Kit ](https://www.alsa.mil/Portals/9/Images/article_figures/210701_Figure1.jpg?ver=4qUbQkLEa5TZO2c6KBVhTg%3d%3d)
 
@@ -27,9 +31,13 @@ Track each member from your team, these only works e you have a takserver and ea
 
 ![ ATAK traking ](https://th.bing.com/th/id/R.a209a94829d5a2ece1e8cae80b732c3d?rik=Ub6ubEhZGe2LHg&riu=http%3a%2f%2finsights.globalspec.com%2fimages%2fassets%2f153%2f7153%2fATAK.jpg&ehk=Rphfhve4Kbv0TRqmK3bWkYtWvKt%2bN%2bpIba8D4FifkLI%3d&risl=&pid=ImgRaw&r=0)
 
+# Live information
+
 Have live reports on weather and satelite images( only avaleable from acces to private servers )
 
 ![ Live weather reports ](https://th.bing.com/th/id/R.4d00cbb0415eb23d0ea45398752f047e?rik=viJ5e%2fN90S4hOA&pid=ImgRaw&r=0)
+
+# 3d maps
 
 Elevation data with maps
 
