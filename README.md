@@ -6,11 +6,6 @@ Satelite images for TAK softweare ( Wintak and ATAK )
 DTED0 World foulder has to be ziped and later imported use z-zip or any other softwere to do it
 
 Then you can import each foulder from the repository do not import the full zip since it contains the githubs properties files
-
-![ATAK-Maps Logo](https://github.com/joshuafuller/ATAK-Maps/blob/master/images/ATAK-Maps-Logo-White.png?raw=true)
- 
-![GitHub Release Date](https://img.shields.io/github/release-date/joshuafuller/ATAK-Maps?style=flat) ![GitHub All Releases](https://img.shields.io/github/downloads/joshuafuller/ATAK-Maps/total?style=flat)
- 
  
 # How do I add these maps to ATAK ?
 ![Download ATAK-Maps.zip](https://github.com/joshuafuller/ATAK-Maps/blob/master/images/screenshot_1.png?raw=true)
