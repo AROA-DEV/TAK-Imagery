@@ -14,6 +14,8 @@ Then you can import each foulder from the repository do not import the full zip 
 
 ![Locate the ATAK-Maps.zip file](https://github.com/joshuafuller/ATAK-Maps/blob/master/images/screenshot_3.png?raw=true)
 
+!!!! REMEMBER TO NOT UPLOAD THE FULL ZIP FILE BUT EACH FOULDER THAT CONTAINS MAPS SEPARETALY !!!
+
 # ATAK ( Android Team Awareness Kit )
 
 Android Team Awareness Kit, dasined to be used in mobile devaices with the android sistem from android 4
