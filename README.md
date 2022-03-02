@@ -1,11 +1,10 @@
-# TAK-imagery
+# TAK-imagery istructions
 
 you have to get the atak softweare from the tak.gov page ( you can only acces the download page with an acount )
-
 Satelite images for TAK softweare ( Wintak and ATAK )
 
-
 DTED0 World foulder has to be ziped and later imported use z-zip or any other softwere to do it
+then you can import each foulder from the repository do not import the full zip since it contains the githubs properties files
 
 
 # ATAK ( Android Team Awareness Kit )
