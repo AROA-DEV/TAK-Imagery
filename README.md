@@ -11,6 +11,7 @@ ATAK ( Android Team Awareness Kit )
 
 Avaliable to in most android devaices ( do not download it from the Google app store go to the tak.gov page )
 ![ screenshot ATAK ](https://th.bing.com/th/id/OIP.J7YoZnGyuTBFxJwjFJm7YQHaF5?pid=ImgDet&rs=1)
+
 some devaices may need external gps I recomend the GotennaMESH
 
 WINTAK ( Windows Team Awareness Kit )
