@@ -8,8 +8,6 @@ DTED0 World foulder has to be ziped and later imported use z-zip or any other so
 Then you can import each foulder from the repository do not import the full zip since it contains the githubs properties files
  
 # How do I add these maps to ATAK ?
-![Download ATAK-Maps.zip](https://github.com/joshuafuller/ATAK-Maps/blob/master/images/screenshot_1.png?raw=true)
-
 
 ![Goto Import Manager](https://github.com/joshuafuller/ATAK-Maps/blob/master/images/screenshot_2.png?raw=true)
 
