@@ -8,6 +8,7 @@ DTED0 World foulder has to be ziped and later imported use z-zip or any other so
 ATAK ( Android Team Awareness Kit )
 
 ![ Screenshots from: Android Team Awareness Kit ](https://tak.gov/packs/media/img/uploads/device-demonstration-01-aa3ed3ce2bdcd4507bed3f9c768795d0.png)
+
 Avaliable to in most android devaices ( do not download it from the Google app store go to the tak.gov page )
 ![ screenshot ATAK ](https://th.bing.com/th/id/OIP.J7YoZnGyuTBFxJwjFJm7YQHaF5?pid=ImgDet&rs=1)
 some devaices may need external gps I recomend the GotennaMESH
