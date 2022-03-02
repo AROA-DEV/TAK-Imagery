@@ -21,7 +21,9 @@ WINTAK ( Windows Team Awareness Kit )
 
 ![ Android Team Awareness Kit ](https://www.alsa.mil/Portals/9/Images/article_figures/210701_Figure1.jpg?ver=4qUbQkLEa5TZO2c6KBVhTg%3d%3d)
 
-Track each member from your team
+# Tracking funktion
+
+Track each member from your team, these only works e you have a takserver and each meber is conected to it
 
 ![ ATAK traking ](https://th.bing.com/th/id/R.a209a94829d5a2ece1e8cae80b732c3d?rik=Ub6ubEhZGe2LHg&riu=http%3a%2f%2finsights.globalspec.com%2fimages%2fassets%2f153%2f7153%2fATAK.jpg&ehk=Rphfhve4Kbv0TRqmK3bWkYtWvKt%2bN%2bpIba8D4FifkLI%3d&risl=&pid=ImgRaw&r=0)
 
