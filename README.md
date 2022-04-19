@@ -1,7 +1,8 @@
+![Banner](https://i0.wp.com/www.civtak.org/wp-content/uploads/2018/03/cropped-TAK-CIV-Splash-4.png?w=1470&ssl=1)
 # TAK-imagery instructions
 
 you have to get the atak softweare from the tak.gov page ( you can only acces the download page with an acount )
-Satelite images for TAK softweare ( Wintak and ATAK )
+these are only satelite images for TAK softweare ( Wintak and ATAK )
 
 DTED0 World foulder has to be ziped and later imported use z-zip or any other softwere to do it
 
@@ -31,7 +32,7 @@ some devaices may need external gps I recomend the GotennaMESH and meshtastic an
 
 The native version of tak for windows
 
-![ Android Team Awareness Kit ](https://www.alsa.mil/Portals/9/Images/article_figures/210701_Figure1.jpg?ver=4qUbQkLEa5TZO2c6KBVhTg%3d%3d)
+![ WIndows Team Awareness Kit ](https://www.alsa.mil/Portals/9/Images/article_figures/210701_Figure1.jpg?ver=4qUbQkLEa5TZO2c6KBVhTg%3d%3d)
 
 # Tracking funktion
 
