@@ -25,7 +25,7 @@ Android Team Awareness Kit, dasined to be used in mobile devaices with the andro
 Avaliable to in most android devaices ( do not download it from the Google app store go to the tak.gov page )
 ![ screenshot ATAK ](https://th.bing.com/th/id/OIP.J7YoZnGyuTBFxJwjFJm7YQHaF5?pid=ImgDet&rs=1)
 
-some devaices may need external gps I recomend the GotennaMESH
+some devaices may need external gps I recomend the GotennaMESH and meshtastic antenas for comunications
 
 # WINTAK ( Windows Team Awareness Kit )
 
@@ -35,7 +35,7 @@ The native version of tak for windows
 
 # Tracking funktion
 
-Track each member from your team, these only works e you have a takserver and each meber is conected to it
+Track each member from your team, these only works if you have a takserver and each meber is conected to it
 
 ![ ATAK traking ](https://th.bing.com/th/id/R.a209a94829d5a2ece1e8cae80b732c3d?rik=Ub6ubEhZGe2LHg&riu=http%3a%2f%2finsights.globalspec.com%2fimages%2fassets%2f153%2f7153%2fATAK.jpg&ehk=Rphfhve4Kbv0TRqmK3bWkYtWvKt%2bN%2bpIba8D4FifkLI%3d&risl=&pid=ImgRaw&r=0)
 
