@@ -1,12 +1,12 @@
 ![Banner](https://i0.wp.com/www.civtak.org/wp-content/uploads/2018/03/cropped-TAK-CIV-Splash-4.png?w=1470&ssl=1)
 # TAK-imagery instructions
 
-you have to get the atak softweare from the tak.gov page ( you can only acces the download page with an acount )
-these are only satelite images for TAK softweare ( Wintak and ATAK )
+you have to get the atak software from the tak.gov page ( you can only access the download page with an account )
+these are only satellite images for TAK software ( Wintak and ATAK )
 
-DTED0 World foulder has to be ziped and later imported use z-zip or any other softwere to do it
+DTED0 World folder has to be zipped and later imported use z-zip or any other software to do it
 
-Then you can import each foulder from the repository do not import the full zip since it contains the githubs properties files
+Then you can import each folder from the repository do not import the full zip since it contains the GitHub properties files
  
 # How do I add these maps to ATAK ?
 
@@ -15,18 +15,18 @@ Then you can import each foulder from the repository do not import the full zip 
 
 ![Locate the ATAK-Maps.zip file](https://github.com/joshuafuller/ATAK-Maps/blob/master/images/screenshot_3.png?raw=true)
 
-!!!! REMEMBER TO NOT UPLOAD THE FULL ZIP FILE BUT EACH FOULDER THAT CONTAINS MAPS SEPARETALY !!!
+!!!! REMEMBER TO NOT UPLOAD THE FULL ZIP FILE BUT EACH FOLDER THAT CONTAINS MAPS SEPARATELY !!!
 
 # ATAK ( Android Team Awareness Kit )
 
-Android Team Awareness Kit, dasined to be used in mobile devaices with the android sistem from android 4
+Android Team Awareness Kit, designed to be used in mobile devices with the android system from android 4
 
-![ Screenshots from: Android Team Awareness Kit ](https://tak.gov/packs/media/img/uploads/device-demonstration-01-aa3ed3ce2bdcd4507bed3f9c768795d0.png)
+![ Screenshots from Android Team Awareness Kit ](https://tak.gov/packs/media/img/uploads/device-demonstration-01-aa3ed3ce2bdcd4507bed3f9c768795d0.png)
 
-Avaliable to in most android devaices ( do not download it from the Google app store go to the tak.gov page )
+Available on most android devices ( do not download it from the Google app store go to the tak.gov page )
 ![ screenshot ATAK ](https://th.bing.com/th/id/OIP.J7YoZnGyuTBFxJwjFJm7YQHaF5?pid=ImgDet&rs=1)
 
-some devaices may need external gps I recomend the GotennaMESH and meshtastic antenas for comunications
+some devices may need external GPS I recommend the GotennaMESH and meshtastic antennas for communications
 
 # WINTAK ( Windows Team Awareness Kit )
 
@@ -36,13 +36,13 @@ The native version of tak for windows
 
 # Tracking funktion
 
-Track each member from your team, these only works if you have a takserver and each meber is conected to it
+Track each member from your team, these only work if you have a takserver and each member is connected to it
 
 ![ ATAK traking ](https://th.bing.com/th/id/R.a209a94829d5a2ece1e8cae80b732c3d?rik=Ub6ubEhZGe2LHg&riu=http%3a%2f%2finsights.globalspec.com%2fimages%2fassets%2f153%2f7153%2fATAK.jpg&ehk=Rphfhve4Kbv0TRqmK3bWkYtWvKt%2bN%2bpIba8D4FifkLI%3d&risl=&pid=ImgRaw&r=0)
 
 # Live information
 
-Have live reports on weather and satelite images( only avaleable from acces to private servers )
+Have live reports on weather and satellite images( only available from access to private servers )
 
 ![ Live weather reports ](https://th.bing.com/th/id/R.4d00cbb0415eb23d0ea45398752f047e?rik=viJ5e%2fN90S4hOA&pid=ImgRaw&r=0)
 
