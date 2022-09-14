@@ -17,6 +17,23 @@ Then you can import each folder from the repository do not import the full zip s
 
 !!!! REMEMBER TO NOT UPLOAD THE FULL ZIP FILE BUT EACH FOLDER THAT CONTAINS MAPS SEPARATELY !!!
 
+# Get the maps from a server
+These is an example of a functional tack server deployment, were the nodes will autamticaly get the information needed from the closet/or factest relay point (users may also be used as a relay)
+```mermaid
+graph TD;
+    Server-->Relay-1;
+    Server-->Relay-2;
+    Relay-2-->Relay-3;
+    Relay-2-->Relay-4;
+    Server-->User-1;
+    User-1-->User-2;
+    User-1-->User-3;
+    Relay-3-->user-4;
+    Relay-3-->user-5;
+    Relay-4-->user-5;
+    User-2-->Relay-4;
+```
+
 # ATAK ( Android Team Awareness Kit )
 
 Android Team Awareness Kit, designed to be used in mobile devices with the android system from android 4
